@@ -1,4 +1,4 @@
-var imported = require('./export.js');
+var imported = require('./export');
 
 
 console.log(imported);
