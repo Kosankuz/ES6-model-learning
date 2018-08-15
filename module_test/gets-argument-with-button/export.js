@@ -1,3 +1,3 @@
-export function turn(a, b){
-return a + b;
+export function turn(a){
+alert("No time to " + a);
 }
