@@ -15,15 +15,36 @@ to run a project script :
 open terminal
 
 in terminal go to  folder with you script as node have to be executed in the folder with script
-you can do it by executing the following command:
+you can do it by executing the following command from project root folder:
+----------------------------------
+cd nodeJS/multiple-function
 
-cd /path/to/your/folder/with/script.js
-
-
-once you are in the folder , to execute script type following :
-
-node script_name
-
-for example :
+then to execute script do:
 
 node import
+----------------------------------
+cd nodeJS/multiple-function-slav-ver/
+
+then to execute script do:
+
+node import
+----------------------------------
+
+cd nodeJS/multiple-function-slav-ver/
+
+then to execute script do:
+
+node import
+----------------------------------
+cd nodeJS/require-single-func/
+
+then to execute script do:
+
+node import
+----------------------------------
+cd nodeJS/require-var/
+
+then to execute script do:
+
+node import
+----------------------------------
